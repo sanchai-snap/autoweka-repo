@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.beust</groupId>
+  <artifactId>jcommander</artifactId>
+  <versioning>
+    <release>aeatk-custom</release>
+    <versions>
+      <version>aeatk-custom</version>
+    </versions>
+    <lastUpdated>20181210090715</lastUpdated>
+  </versioning>
+</metadata>
