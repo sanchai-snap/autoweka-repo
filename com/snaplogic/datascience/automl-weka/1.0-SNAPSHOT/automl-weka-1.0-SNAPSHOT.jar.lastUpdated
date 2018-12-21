@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 20 11:09:44 ICT 2018
+@default-twitter-repo-https\://maven.twttr.com/.lastUpdated=1545278984153
+@default-central-http\://repo1.maven.org/maven2/.lastUpdated=1545278984140
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/thirdparty/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to thirdparty (http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/thirdparty)\: maven.clouddev.snaplogic.com
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/releases/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to Snaplogic-Maven-Cloud-Repository (http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/releases/)\: maven.clouddev.snaplogic.com
+@default-Snaplogic-ThirdPartyMaven-Repository-http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1545278984133
+http\://packages.confluent.io/maven/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to confluent (http\://packages.confluent.io/maven/)\: packages.confluent.io
+https\://raw.github.com/sanchai-snap/autoweka-repo/master/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to snaplogic-autoweka (https\://raw.github.com/sanchai-snap/autoweka-repo/master/)\: raw.github.com
+@default-sonatype-releases-https\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1545278984146
+@default-repository.jboss.org-public-https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1545278984150
+@default-confluent-http\://packages.confluent.io/maven/.lastUpdated=1545278984156
+https\://oss.sonatype.org/content/repositories/releases/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to sonatype-releases (https\://oss.sonatype.org/content/repositories/releases)\: oss.sonatype.org
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to central (http\://repo1.maven.org/maven2)\: repo1.maven.org
+https\://maven.twttr.com/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to twitter-repo (https\://maven.twttr.com/)\: maven.twttr.com
+@default-Snaplogic-Maven-Cloud-Repository-http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/releases/.lastUpdated=1545278984136
+https\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact com.snaplogic.datascience\:automl-weka\:jar\:1.0-SNAPSHOT from/to repository.jboss.org-public (https\://repository.jboss.org/nexus/content/groups/public)\: repository.jboss.org
+@default-thirdparty-http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1545278984143
+@default-snaplogic-autoweka-https\://raw.github.com/sanchai-snap/autoweka-repo/master/.lastUpdated=1545278984129
