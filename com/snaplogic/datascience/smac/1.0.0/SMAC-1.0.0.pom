@@ -8,12 +8,12 @@
         <artifactId>automl-weka</artifactId>
         <version>1.0.0</version>
     </parent>
-    <artifactId>SMAC</artifactId>
+    <artifactId>smac</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>com.snaplogic.datascience</groupId>
-            <artifactId>AEATK</artifactId>
+            <artifactId>aeatk</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>

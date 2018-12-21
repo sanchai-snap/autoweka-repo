@@ -10,8 +10,8 @@
   <version>1.0.0</version>
 
 <modules>
-    <module>AEATK</module>
-    <module>SMAC</module>
+    <module>aeatk</module>
+    <module>smac</module>
     <module>autoweka</module>
 </modules>
   <!-- FIXME change it to the project's website -->

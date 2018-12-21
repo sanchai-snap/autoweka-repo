@@ -24,12 +24,12 @@
     <dependencies>
         <dependency>
             <groupId>com.snaplogic.datascience</groupId>
-            <artifactId>AEATK</artifactId>
+            <artifactId>aeatk</artifactId>
             <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.snaplogic.datascience</groupId>
-            <artifactId>SMAC</artifactId>
+            <artifactId>smac</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>
