@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Jan 27 19:47:02 ICT 2019
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/develop/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1548593220204
+http\://packages.confluent.io/maven/.error=
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/thirdparty/.lastUpdated=1548593218993
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/develop/.lastUpdated=1548593219595
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/releases/.lastUpdated=1548593218378
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/releases/.error=
+https\://oss.sonatype.org/content/repositories/releases/.error=
+http\://packages.confluent.io/maven/.lastUpdated=1548593222708
+https\://raw.github.com/sanchai-snap/autoweka-repo/master/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1548593222186
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/master/.error=
+https\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1548593221144
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/thirdparty/.error=
+https\://raw.github.com/sanchai-snap/autoweka-repo/master/.lastUpdated=1548593217151
+http\://maven.clouddev.snaplogic.com\:8080/nexus/content/repositories/master/.lastUpdated=1548593217721
+http\://repo1.maven.org/maven2/.error=
