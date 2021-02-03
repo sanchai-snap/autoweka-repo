@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 10 11:41:10 ICT 2018
+http\://repo2.maven.org/maven2/.error=
+http\://repo2.maven.org/maven2/.lastUpdated=1544416868375
+https\://repo.maven.apache.org/maven2/.lastUpdated=1544379589945
+http\://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo/.lastUpdated=1544416870120
+http\://doodleproject.sourceforge.net/maven2/release/.error=
+http\://doodleproject.sourceforge.net/maven2/release/.lastUpdated=1544416867737
+https\://repo.maven.apache.org/maven2/.error=

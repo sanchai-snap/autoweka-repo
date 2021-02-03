@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Dec 10 16:29:06 ICT 2018
+http\://doodleproject.sourceforge.net/maven2/release/.error=
+http\://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo/.error=
+http\://www.ebi.ac.uk/intact/maven/nexus/content/repositories/ebi-repo/.lastUpdated=1544416858023
+http\://repo2.maven.org/maven2/.error=
+https\://raw.github.com/sanchai-snap/autoweka-repo/master/.lastUpdated=1544434146950
+https\://raw.github.com/sanchai-snap/autoweka-repo/master/.error=
+https\://raw.github.com/sanchai-snap/autoweka-repo/.lastUpdated=1544432348833
+http\://repo2.maven.org/maven2/.lastUpdated=1544380366000
+https\://raw.github.com/sanchai-snap/autoweka-repo/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1544379600281
+https\://repo.maven.apache.org/maven2/.error=
+http\://doodleproject.sourceforge.net/maven2/release/.lastUpdated=1544380365385
